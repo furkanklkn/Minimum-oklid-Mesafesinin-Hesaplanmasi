@@ -1,0 +1,2 @@
+# Minimum-oklid-Mesafesinin-Hesaplanmasi
+ 
